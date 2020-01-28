@@ -1,4 +1,4 @@
-# git-blog-demo-v2
+# git-blog-demo-v3
 
 This demo shows how to use the `git-sync` sidekick container along side `volumes` and `volumeMounts` to create a markdown powered blog.
 
